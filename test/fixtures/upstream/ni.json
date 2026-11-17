@@ -1,0 +1,17 @@
+{
+ "NI_CEDULA > agrees with nationid except documented fixes": {
+  "samples": 5000,
+  "inputsHash": "008a986f",
+  "verdicts": "H0yUSHvWWOgCOBoagUkvsseVkuh8TCUsToUEX5eMQDwMQqFheXBB0VtKgk2AyLbAWxJeZ60Id+rpVVdRpiboSAWeQxM8B+AGGIc1XiUHOMUcXznjGGxiEDwwEEQMbOTCfTFBwFDPjEqPg/lGBw2OoCCgySFy61qiE4FlFmFxDJ9IA+X9EUqBJ8RMAsGG0Dj+zYI+ntD0zkcEEFUSpYjGEVZqCdL5PMBCJEG4NI6EvMoAQJYa2oGqLcJituEBAG6Piw5QAU1aKhTbWDWFTlSVtjnqqKOFES5JSQVwS7WwJA7ULRuXfg/zsgUJiDiBuQUTEjVgIq0BReQY3YsZ+p/FSMTUt4QwK0TKC7AgSSfQIxn5RV0WuHG0HSB8enZbzFHqy9aFJcIkbAO3sEp5TRKFdMn5gqUbb3cgsSoRJVPQRzhByGfcJCmYmY2aEpK1MbNzBSuLCtjjjIgDugwPKM8BzAFRKAHySsoSVJ8NnH4OaLsglAFlUzBRFZmR7zxhVROORpHiikFjxEEMSS0F1ZymAsDpIBiBgNd1RAOByUuU4DNKsBNDCWzAZqgkLr8FsOXCaIIfUwpQMRUEKChezBGkgD1tCkOURgP2h8wjkSEzuTvqGR0SJGnlwsBGWxpEEZAAt4LosGp+kE9hDPRczZco4xAcphPlbHOP4amgwDGFqI53Riid82IcjHpFOShlpIAkC9KsgFaf0brWayZhtgt1LVUKpYYlmH4fv6wCm6BeLp1CKaiIqAXCg8GyKZQKaTNRvPMBtLFR3HyflNq9hOoZMpx6NxmEjAHU5Ua8+GICZByfevBpWDTh92H9ZDDzMIaXsg=="
+ },
+ "NI_RUC > agrees with nationid except documented fixes": {
+  "samples": 5000,
+  "inputsHash": "aeefe0ab",
+  "verdicts": "y97/y0+Pbbdry21fD/xX72K2+6w/9fv3P2h1/Saf76X750DX3Zye/v3377fH+q/7lP7/fvt5379Y/2Lv399tq3/xPX/39suG3fzVX/fb/1ah5/4vf7l/4Z+PRt2/3+99/zdB1/vnnjvb97v+Z+s3La/k8XP0+5yv83f/xu9Le834/Xt/j/7v/7S/25/q6bv99z9yP5a3X79+zezf5//vtv/b1fz3vX6vur4v56cbff/2fTvx//f3uOX9f/f/f/Tfcp79ef78zqn2Lr/r98f6Nx4mt5XcmlfXx76tfzf7bV+/Y8PZh+z+Jel/cPpK0j/Uefjiuvp6+2OddK34er96/3u/Dfe2/+3Sf/f//37696unH/RX/Vwtlq//06veuvhn8v17s//o/g3//S97s9/Zn739u26fuo3/67/y/buvh8f1zGT+331+rv/3v/bY8f9P/rlj93dbV/7/72f2+v/f1/u5/vf7ORvC/ltt///d+tm9wnzXyv6jr2tdPAe7yfN599tr1v7v//9nz3//ed//B7bvGy2+Mpn9Z/1/fr//Pe0f393+vQ7/++/v7/75k6++7tv/Ll7R/K1Lvb/9V//6/dL5q86dYc/7//n+u/u2l/d253/7v5odh0enu9d/9rWb/7fv8/78Oanx6bHu+v1Uu//OP2tQm7tiBc/On7r876Pub+2t1/+9y7dp+f26Orc/3/P+/b7/e3fd/7Svb//A5r91X3msSOb7a33e9er5U1d/t//P7/csd2PXoXdr/992rsbRKaCNeSq5b9ft6q7+6P/Ed/r3jp21bk1//G+3/u9/u/75mjVWvue1tf7+/nvnjg=="
+ },
+ "NI_PASAPORTE > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "ae8a4b5e",
+  "verdicts": "SHH/GoD59f2l17VZwnqLL+6273htl2D4C9fWdtXmPCf77dZv3z39du1dX8dHX1ip6u+/VuC38/ofrvA6t99lcL9+tD/33Pu7Jt7/u13bddB23X/9Yq6xlbZsd2+ftVZqb5x9k+xNfn0+jTP+/7fn1vs/UYn6bydrewVnzdT160tElf/dd6PKu5/9L+8wcvH2t19yzKmq2/TO1I/2Xxvc6x6FOdfjy/XO3fllHs2+ff11nUHtd+fXK8nOeX3Lm87mvaeJ479Qu3dYpE/vyoir67P78/b8nr6afiAvdvNevr1XJidN8/pNLssv9+atfM6VSYJ3dTwshr2x5/se/vNimefvHe/hXWdrw/i/n/fn9SbLrPz61T684Dr783PhIf7xiX/zvyvsOZbf6nu3/sMpd7Im1e565tV6Tuh/+mf/dapd1fvq/rc/lXrOXO/X/MkfkU696heH05J11bV/0bvfV6cuzge/+/3S2v7t7T/bnS+/nlgfVnfh"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "AT_SVNR > everything we accept, idnumbers accepts too": {
+  "samples": 3000,
+  "inputsHash": "63a3ffce",
+  "verdicts": "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+ },
+ "AT_STEUERNUMMER > agrees with idnumbers": {
+  "samples": 3000,
+  "inputsHash": "c9cf3953",
+  "verdicts": "unKK+9K/H/34ddLeP17L3wpr/33//EH/+V+n3+u3F5Vq8mDd8T7+98nLnd9a/gmT/Kn/fI/4v7fZlYbf847/LG32eKm3tL/zT56tANZbfi9XerzLYe88X5m//R17cV60q3zf3Tf+r7evRVXGv7+U8V2usz+XGdb7f3rLmbF/eGWRLmS87B3//j8f99fr752N3+5m7o/5R7fRq779n6XXOzdf/f3796cDf0Je+/X4v17TYLz1Pda7Vi1yrblXEfJWjs+MSs7j13cfDmrn3NSau94Kyv7t8953XqbNbjzNt6H112extEsmu+r3Gio+H+ePt6p6tNo3Z90sH/B2ds/9P/eqr4Htr9xTJNn87rOyl9Jf76X8tmkx1r7zfnlZ25btaN/v//a78mDseeCzc6Q+ttt6fllsmi+q9rnfvbTVIP+qZKyH/7L3azX+f679fvbumt6nnVbT7X2afvq9wNMLWv7733sFrvNqGT9uv6nEnLmJP1NdTv3f"
+ },
+ "AT_UID > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "be987361",
+  "verdicts": "PO8ffIN75m5H1J+v/W14b+z39d817tT/1937cP9d2oxe+CxS2rtDfxf4+e5dn3mvd05K3+X2fjubjN+bn+Xp+1cErfTPbxwz197m7a3mcZ+n0Z4drfzdW/U3bbe9rb32efab9pKb/vvf32dP0brzp8p4Pfw06e3G7f/Tmo916u5n7Ol5+3rfN3syrr3/n//py/H6bvd3HZ9850dNxyf/6Xe3v6e7/fxsbwW33ffH2F+8WgNDHSFh3mx1PdVc+Hz5bDLg1tf/5V+f+3Nfv7fqn5v7sd/u78f3Pv34N/7dM/95ub3/09g7Tw7s5TN+uuTNCueGl9Efqma/dN6YPtq5/R3rL1XP3tH6+f3zNI8Xm8X0G733ns7x9nuTj0dXXso/s3o/FOPibC5wZNt63rfy3fVL/kX5eXt8WQuu+3vXNZ/7/PKJvoR7v6b1GF+OKnbNr8v9n9b/9nv7sb63Te65b6ubeU2n/2j9Wvh+P+SL4h/pzd0xs5f+"
+ },
+ "AT_UID > agrees with idnumbers": {
+  "samples": 3000,
+  "inputsHash": "be987361",
+  "verdicts": "PO8ffIN75m5H1J+v/W14b+z39d817tT/1937cP9d2oxe+CxS2rtDfxf4+e5dn3mvd05K3+X2fjubjN+bn+Xp+1cErfTPbxwz197m7a3mcZ+n0Z4drfzdW/U3bbe9rb32efab9pKb/vvf32dP0brzp8p4Pfw06e3G7f/Tmo916u5n7Ol5+3rfN3syrr3/n//py/H6bvd3HZ9850dNxyf/6Xe3v6e7/fxsbwW33ffH2F+8WgNDHSFh3mx1PdVc+Hz5bDLg1tf/5V+f+3Nfv7fqn5v7sd/u78f3Pv34N/7dM/95ub3/09g7Tw7s5TN+uuTNCueGl9Efqma/dN6YPtq5/R3rL1XP3tH6+f3zNI8Xm8X0G733ns7x9nuTj0dXXso/s3o/FOPibC5wZNt63rfy3fVL/kX5eXt8WQuu+3vXNZ/7/PKJvoR7v6b1GF+OKnbNr8v9n9b/9nv7sb63Te65b6ubeU2n/2j9Wvh+P+SL4h/pzd0xs5f+"
+ }
+}

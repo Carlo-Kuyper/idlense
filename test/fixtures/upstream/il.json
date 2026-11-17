@@ -1,0 +1,12 @@
+{
+ "IL_TZ > agrees with idnumbers except the all-zero number": {
+  "samples": 3000,
+  "inputsHash": "80a9de87",
+  "verdicts": "B4P4kb1szO3ti1gP7o8CBJLqbUFU0+/LKer+9HKuctrRSUy23GdbtL2h108mqGne/lLmh+m/LTKubHt66hCUzXT0Jxb3xr4nlR++Y1UbaEYV8S/sXrfcNmuzFff88+EXMX/vP2774Xzfp/dZvtg1lyiP90meHu67iWV66JCSRcq33FdffFsMtgO6kzc/tQVEXhRYpqcIMD0VB2x/Fas1j8U/G78qD8v0YK3M7XMQYH7s8OJuOSsv6GfqU/rFU/bd1XJETp6zr406pCvaclCdy6xnmX/k/LRsu6m1Pp64/euxYC7dZ+sfv+v1MyEx11Wkp2z/Pz7YXJQGrdAJLIoLhR97ukumm9voyI66qP712pvs9WIh/1k7Xf4Hpcztmr1qQrgOh66SjKq+V1uf5saDGCn3edBVx+HeQm+I3yOIq8T/ScWDDRTHYEWYDRzgFs95Ona7LZpqH8tx4qrX1U/rYfeYKiljMZ9uFGuOt76fRpd+sf6JtUxO"
+ },
+ "IL_TZ > agrees with personal-identity-validation except leading zeros": {
+  "samples": 3000,
+  "inputsHash": "347495e5",
+  "verdicts": "de9kPCQLseHQjqndtV3+/hyFDAVIVTwdZHBcdPbv5lFC6bn2axypmtgDxCODLEwp093XLKldkhqWqIrA2Br7HbVe1FYAYngDOmEsxUpPgy8gPPKV20oHhlnXzC/x/I1finGnWvTrci8teXROBJoXhWynfTVvpIYsjICC497ceyfvUIIcMdzT2bDBk1eosXc7kuUI8znxoZK0cu+iVmDjGQItJjEJre39WgxiizXrhhqIdVd56FW0MKf+aK7wrSWB2qqBQdifU4p+nKF7/0Q8cKduaUEOk/xYrUV7Vds5YG33TwtBNSr91GIw3aFIA9Yg6Tzf3Z85sA2mxtDJGmowi3YhGUI/8u+k71oG0k/GyFm5Xsg2O01mCAYJm8Hn1SRPRqmVoXfVWCSNbZ4Mo7qFnsYZ9kCMVz8tlXhhsFPo4wuUtkI7AY7xdDwvUe7wXYvA6k98byLdH5ShkIVbFW8HuVvu7wIjuYQ1Bm+PxTtdYP7dsTEWN/Zp"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "Venezuela > agrees with idnumbers (VEN cédula)": {
+  "samples": 3000,
+  "inputsHash": "e122b4c8",
+  "verdicts": "ud3Hb92//33//a///9+///+Xvn92v9/5397+/3v5/P//6ze9j3Mv3nf/ev/5vu7u/7/7f/33/z1b+9/+3/698vtr3vMP3v+7d//9X5v7+6+493W7V96/5///f7/3M2faP63/+9fw32env/+/c/L/u/Xf/ufvk/n93w7f/H/21rHrfN/97/+v/////X3/b9/X8/5f3fppvnre/793v/3++///ev8P/377vuVdl7n+1/y/3N///7v3/fp+//3vXX6n/+z7//++/v93v7n/vf1/mz+//f+/3b+fb//78/7/2/9zP/f/n3/b13//v/4z3/X9/Vv/Tf3d72//bX7N/977/Tvu+/3/33/93/+N2PfH7+7/dWffxfv//t//f9/873/59779rrr//37+/kd/b//z79d3fdf9397ZX/ff/5v3ln5vvL8elrxv39Jf/z397nuT/99Gz//37vbtX3929+8Pfuff/9z//7fT/3397f/P9993+++/3fb7"
+ },
+ "Venezuela > agrees with nationid VE_CEDULA and VE_PASAPORTE": {
+  "samples": 3000,
+  "inputsHash": "e122b4c8",
+  "verdicts": "KMRGYAgVqjnPiaagfwM8xZ0QgmMSClGomoRI7wCBqNLl6xExAEAgHgcUInQxPOYgDb9wNHS3NQBL40jAn3qMgIlL1FMIkFCacVx1CoqCcacwwFUxUJae5WYoHCdwMmBaOiRks5BACSQGhWWmUrLsu1Ga0EDnglABUQyAaCqgUICocMFZhqOIcNEtOFSCRcpQooYfmcpBslJYNA5EE1QCCQWccMwD1jT5LMRIBgnA0fyMEIYAFwFHSeAISYgkSUiE3CBb+Aa4/sZFBpBPKfQPmTspMQEQnLGTIrM4UaqmQ3YxGnIqCWNbFgz3MAYBUOVBVQlRRajE52SKIBQMrgTxUAMoQBivQXEg1IoMyHMDguDCQCFdRcpFQsjtAd4QiiFo4Az8gjqvwhYMJAAlbrWDgAZwRFdAx8iICOBWMYJnBiAnoCgAlhRunpASMSw07gGTQtEExM0mjPIMCC1ChkIIViKUQsQPPCKDfATESOvHwNchQoevSWDr"
+ },
+ "Venezuela > agrees with nationid VE_CEDULA and VE_PASAPORTE #2": {
+  "samples": 3000,
+  "inputsHash": "048e827e",
+  "verdicts": "v//f7/////3//e///9+///+X/v9//9/739///3v7/v//77e/z3s//vf//v//vv7u/7////33/z/7//////+/+v9/3v/v//+/d//9X7v//7+59/27X/7/9//////3P2/7v////9f93/e3//////////3f/vf/n/n9/97f////1vn/f//9/////////X3/f//f+///3f7pv3/+/79////+////f/////77/vV997/+//7//N/////3//t+///vff////3//////v9/v/n///9/v////f///b+ff///+//////3////v///1/////8/3/X//3v/3/3f/3//bX7d/////7////3/3//9///9/v/3////d/f/7////t//f9/97//9/779v/r//37//3//b//z//d//9///97bf//f/5///n/vv///n/5v//ff/7/9//+7//9m7///7//tf//3//+//v/f//z//7f///3/7//v99/3/+//3/77"
+ },
+ "Venezuela > agrees with nationid VE_RIF except prefix C": {
+  "samples": 3000,
+  "inputsHash": "ec6b742e",
+  "verdicts": "s7HFALZ2gAu1sU6lzL/abhlSNuNKQsfJsSCh0bi6NoBBFoc9bVwbORcPgBD3d/13Wlpsm9Rh6ejhRPDscLJGrvK+0wzWG7Qv2tKBiVwuMVef9ZkHY0US+15IMySwcLLQue9FrrcHp1PAQwDdB5cXdEGh2GvBb6uwOYQhAy2bgQXElIMurtjgLpho4Mvdj3sAJRxqdR250UE6QWfyyXWHkjdOoRPDE/JOImTpbcRTcQTs21jq469q1kVM51z5etIYNm64+oFqTMK+BAYmVUlH5qws1FFEKsDqNKMSoiVRie1hfsBrs1b3LKRRlDNYBHCtmXBwIHavslgfPNP1EgRPXHsPcyePBB9rRlWQhN1fZwlTCopIwawRqOOmuZRzj9N8gTw3gTMA9AZwdGz6OHAS9wUH0oB0A3wLmd+7oW3vY4ROi7ous+E2R0PhnRjd2gTElSjYqwQIMpFKNvM7bCJL3mX0TwvQe/urbo6kcT4S8kZkmvdggTRn"
+ },
+ "Venezuela > agrees with idnumbers FiscalInformationNumber": {
+  "samples": 3000,
+  "inputsHash": "ec6b742e",
+  "verdicts": "s7HFALZ2gAu1sU6lzL/abglSNuNKQsfJsSCh0bi6NoBBFoc9bVwbORcPgBD3N/13SlpMm9Rh6ahhRPDscLJCrvC80wTWG7QvWtKBCVwuIVef9ZkHY0US+15IMySwULLQue9FrrcHp1PAQwDNBxcXdEGh2GsBb6uwOYQhAy2bgQXElIMurtjgLpho4MudjzsAJRxqdB250UEyQSfyyXUHkjdOoRPCE/JOImTpbcRTcQTs21jq469q1kVM51z5eJIYNmq4+oFqTMK+BAYmVUlH5qws1FFEKsDqJKMSoiVRie1gesBrs1b3LIRBlDNYBHCNmHBwIHYvslgePNP1EgRPXHsPcyePBBdrBlWQBN1fZwlTCopIwawRqOOmuZRzj9N8gTw3gTMA9AZwdGx6OHAS9QUH0oB0A3wLmZ+7oW3vY4ROi7ous+E2R0PhnRjdWgTElSjYqwQIMpFKNvM7bCBL3GX0TwvQe/urLoykUD4S8kZkmvdggTRn"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "CL_RUT > agrees with idnumbers on 8-digit bodies": {
+  "samples": 3000,
+  "inputsHash": "da4dd9d1",
+  "verdicts": "umLK+/C/H/98ddL+P37L3wpr/33+7EH/+V+nX8+nF5Vq+mDd8T/+98nLnd9a/iuz/Kn/fo+4t7b5lYae447/rGz3eKm3nJ+zT56vCNb7fi9XfrzJce88X523/V16c360q3zf3Tb+jrcvRRXGv68U8V2Poz+fHdf6f3rLmbF/eGWRLmS8iJX//j8f9tfr752N3s5m7o/5RrfRq77dP6XzWzNf/b3/96eDf1Ne2/f6v13TYL73Pda7Vi16rbtfGfpWis+MSs7j1zcfDnt3zNSaq96Kiv6v+JZ3fsTNbjTNt6n112OxtEsiu+vyGCoensfPt6o+uDp3Rd0sH/DWNs99P9eq74Htr/xTJFn8r7Iyl/Bf77X8t2k7xr7zvvlZ+7ZvaN/r//678mTs+fCzc6Q3tptyfllMuheq87nWvbTVIP+qZKyH97L36zXed669f/b+nt6nnVbR7X2aPvu9gNILTv5zz39FrvN6GT/uP4XFnDupf1Fdxu/f"
+ },
+ "CL_RUT > differs from idnumbers on 7-digit bodies only by its weight bug": {
+  "samples": 3000,
+  "inputsHash": "3fce65c2",
+  "verdicts": "AAAJAAAAAAAAAQCAAAAAUIAAgAgAQLAACAAAAAAIACERUiAAECBQQAAgAgAEAgAAAEABIAABBBAAAAgCCEAgCACEABAAAQAAAgAAAAAAQAAIAIAIBEIIAAACCQAAECIEBSIB0EAAAEIAkAAACEBASAggAAAACAABBAAAIARBAAAIBBAAiCSAAmCBBAAAqARAAAAABAAAAIQCEABAAAAFAAAAABAiUCgACAAABAEACAAwAAgEARAAAAAQAIAAABEACAIAAAAAIBAAABAoEAgAkAQAoASAGAUACICAgBAQBAAAAIAgQQABAAIAEgAEAgAgAICCGAAAABEAIAAACBgAIYCCBACCABwII0oAAAAgACAAgAAAAgECCQQgAAISAAAEjAAJEAEAJQACAQEAABgTAAiCAJBAAAACAQgCYAQEIAAQAAQAABAAAAAADIAgEABAAIAAAgAAADAQCFgCkgAwIAAAARAIAAAABAAEAABAYBAggAAAAABA"
+ },
+ "CL_RUT > agrees with nationid except short bodies": {
+  "samples": 3000,
+  "inputsHash": "4ddb316a",
+  "verdicts": "e3f6F25//Fe9NzslutqvrER+zx6z7+f+R//8m3iZ00h9N8hYHr2PRUp7t29i+/frhKPz2kus23k0+baqeb3Y/oz676Xd+hXqy3f05PV7e735OGf4nfrXZGq3q96Jv1ONuvcujMv+E/5+J+vGr11crO73Px2+x/jb2hn97vZyz14//9O9+57faoNsRO06rU+LsFk/91ZxurTbT0dHd3X77b1XTfrNPjb99zKaOvG4P/7ZPfXnR+Dvheta5fHX/XCbll/29v//wDQM7+u/799HLvf47o7C0915/60CVupApll/lPZtXffM6a50v3/Zf7sO86Ieb8PHT9b4I9prUF7W118r1l3/sKV46vZnPwC7//yt9oe7j/7f7hWV5163f7hui/mcRf49sqq6/8H2+f0O6/+e5Z5vf2Nr9t+Cbfr31u86m/qhf9/3bdi+mhr37vvhf3ezL+ev3Qv7H21rK/v87LVtqvfW/Ev3kv7V19bx79nv5lJvt2YX"
+ },
+ "CL_PASAPORTE > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "1cea641f",
+  "verdicts": "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+ }
+}

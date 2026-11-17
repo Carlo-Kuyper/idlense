@@ -1,0 +1,17 @@
+{
+ "Bolivia > BO_CI agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "610a359b",
+  "verdicts": "zF3u6nvglyj8tffb/da/iAnWWzIIsZD+XBN/mBDzf3+vezN+dVv9x63o11RIVVYYoaxen+eW/6VccPGvNXJpLv6V5fvLRv6kFoPQWUwquCr0OeZfvg2WKOhN70+fNg4n41Upf6pNxXg6qvxN+F9XG1VAYolRcet69dO/ndlUolq0k/Udz5H5nF49Cfvan52s315wRecI/7s64aco8u5M/qop7L5rvyXS5kW8YO9Wlof+W5poPNexz43psP5Uv4wys+otNyaxYxEuqj4GXvehQRd9dD4dQYFH5r9f9TiqVUy3rpAizZnY0H8fdO2doPPV3CjV4991yc618sMZGfx5tkGn7lUan1wPVF+lLmGC9VWvLvnlQ7BH5pvZ7Tuxh6XXqfcPu+2VTfveXc7lsYeDrsTeOB4lJ9+nZ/HYFvENLWJ8Oy5X539pc4vdkq5O2+v2snfrYPMNezC/Rbei+48Zt/RvIBPrdkoT3jHp52b35uf/31zdnW8u"
+ },
+ "Bolivia > BO_NIT agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "c2dfa230",
+  "verdicts": "3e/+tLf+7/4Xzu/Y19v9plofVX/pJd/b73r/57lT8fvv1//r468+9/74877p/6v9vP3/9b0l3/99a/1T3/Y/df7/1/1LniV/76/77y93+///z/vfn/u/dH503f9/9/23e8/fPu/9+3Y/m999fy+db//v3Ff+3/2t72Su873v/xtf//1sjd6r/vqt+vvfm9713urHV2+/Cf+/+X5fHuzOcL//X379/Pv9z/k3X6wn9H++9t2Hvm/11GtzvOihd/nPz997tv/9v/n6+/3//7dUf79v8/f9u/f3odff/f/3s1Ovby9p+Pf0//77/uP/8jv/+u3Tz1rT7725/vrzv3N+fc99/7+b5d/a/78V3//95/9n//7f634O65/W+fe+v/e2/v+7k991+77n9/vbPr/7//6du79mzrd1ffrnf2v8/+//t87rn/P/+/8/N+f93327/v9f3v/X//Mn+av/+fn8v21Pf/f97f/s/+v7dv+2/f+/Gf4v1+57"
+ },
+ "Bolivia > BO_PASAPORTE agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "cdd42692",
+  "verdicts": "zfq//rolL2qptGOfvf6f+37g2iXv9u/iIuQqznRwe6f56e/m1+bViyft3uyurvkZz5R+LFvfvR6h2c1ut+nmOvntZpb8dP+kf/52/v9f+Uj/N//n7879KS+25tj13/m1uPLevIH/63hxTbHrX+m/ev9edsN658c2bfNPW3ffDzBfb3J/P8zP+reF8n1vJt/y+cxw53t/9VDp/8lvPqeA1vKp3vq7wvS93Z+zn+320dzvf6FvYfnnWMnL936u3NE77veObepz4vb1pVu/Sgf9D93/NXX5Hn+O3/XpQvvf3O//nC+W6Xq5//f3zh7+v19Xb/L/2Cvu+v15zctqz5dj5hNJj61eDP7N3j3f7+voi7um1UkEnHY+fPN989XpVbt8fu/RnWXFr1//yEz07fvz9zu+e7u/6fXhXKT/X1ewr0n4u1mcdfm/1qU8o36ajnTW3/ph842z7/vwWPlvPL7bzPyM+Xv17pfeffTyV9k2/+1t1/zbto+X"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "BR_CPF > agrees with idnumbers except documented fixes": {
+  "samples": 3000,
+  "inputsHash": "534aa303",
+  "verdicts": "T1as0LSD7+f3yfhxN/q9w5Fq6U0wBupzcYxvC4nf2tZX7YQb6a01twQLv162edWlDjaKeTfpz9yqcHWV+rOGo6wmsYZT6rvH7oopYMuqJmQS/lAEwT7eHQ5944RXjWzj3R/V9qX/pa96YD8O0q6mtzIUfgLdEC7gucL9f3vr2G2s517anEMMaJZAj5Ux2JEZX/IjGijDDK+Dmb2rSbcaZfkhqK3g9ypl8aBW8mca0Bsf5ZX7M6dlr9B3GwkzCiisLH5q4O5NDL1MCuNvVDr9rgtE+6LIRcP991zd6vxbnDXPesNxhJYlQXox1hQxSqs/iZhT9NailjWfr24v3a3+j/SALhPfG9+6H5VOvv7km0jbXzLzQVsbcEwoQ8wW7h++XLX27AelvPREuO59tZI17ljTkBYVCs8dJSa/NrF0eNzXwCz2Ii7vtFw63fhsyLi4D+F2/Si+VKvQK+/OVfeySriag5Y/B0+4SrRn0RAZ28Y0cD/6dNSL"
+ },
+ "BR_CPF > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "534aa303",
+  "verdicts": "T1as0DCBbkf3ifhxN/q9Q5FI6Q0wBOpyUYxrA4na2tRV7YQa6a01lwADn142edWFDhaIeTfpS9yqUHWF+qOEo6wmsYZT6DvH7oopYIuiIiQS9lAEwTqeHQ594wRXjUzj0Q/V9qX9pal6YD8OkoKmlzIEfgLdEC4gucLdfnvr2G2sZ1rKmEMMSJZAjxUx2BEZX9IjGgiDDI+DmLwrSbcaZfkgoK3g9yplcaBSsmMa0BsfRZXZM6clr9B3GwkSCiisLH5q4OpNDL0MCuNPUDr9rgtE86LIBcP891idqvRblBXPWsJxBJYlQXIR0hQxCqs+iZBT9NailjWfjW4P3a3+juSALgPbE9e6C5UEvvzkmwjLXzJzQVsbcEwoQ8gU7h++XLXy7AeltPREuO59tZI17ljTkBYVAs8dJSa/NrF0eNyXwCT2Ii7vtEw6yfhMyLi4D+AW2Si+VKnQK+/OVPeiSrCag5Y/A024SLRj0RAZ2sYwcD3CdNSL"
+ },
+ "BR_CNPJ > agrees with nationid (numeric and alphanumeric)": {
+  "samples": 3000,
+  "inputsHash": "3e77c720",
+  "verdicts": "a0mQSQrzYJJXMdOFyXva+639FeNoY5m2kKlUzRbbe+FLL76tTgMgCGN3kKOvtBZX40tG2netmpKWuMWlfHKUt4sIcMszoQQN/vp9xXdpEr3w0OkdNxDab6edf0QlIPURz8/gWGKB+JWt4BnwWYT+lWkxC7T5oCETEEICWD2hSTOu1Qbda3mQQb1bUgQ9FEcDyAA9/4aCBFbvry0CdqC5J/CGgqepOJzTZcxAxm4ll432K8y3kHRHBM676VqW7xcNyZtZpgyeY4ZTk6oTALJX+SK6i2R5+YcbYzFLkk6rIOkbWIkr1DA8TOJco67wdorwY2coFNMJz7gDPDzWAma/kXeWxDm5pohkCnZ7AbKbtWPi9q6zGYyWM2uQVH+lbS/j0Vel0iLgnnPsQPSIfAo4QO5r+ngqZW7aDTS8i+IZW6gI8QCgy2Ps7LGYAYhbqo+1CDmZmKIH+fVcTAMLsLgLcULsRQY+HcAGwRxNM5uluUQ0WZuQNar3"
+ },
+ "BR_PIS > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "38a4cceb",
+  "verdicts": "XMV6in+clGzJxtabLebV+rWp1+BdCu/MsC9T9VA/M2YX1XjJSvZrmt4Dh9su4dGvapUDrtsGyMEp/xeB9ZqGCRczEPZ5HmXXaFzUPzGpHWGVLI5X4q/Zh+AS7Xnr1G4b3Jd6vmPbTx2B3Z2iDmxdq/8SOMUY8sY0qpdKrR2Uu0Qjg/79dJDN8GHRXVqbnRZuazJznEJCOFenmB3Y2fJHBF/g6b5d3xvLh7NpjPc4lI+IBPoMyBGPXXoGwHYuFj+21yjn/CUcbbOy13ky3xEDssI9jT6feLUN2vBvRRWg6RdYxMpq3h6NO0my0IDWzRx9Vb8fPWt/s5z9rj+0cMOJ0L1IwFuZQ8L8VAU2aowyWsfpU6M/5M6ggkrTqMMGf0lMFbuoI/IdnTXps6ENXyrA+rjB6va3n9hh/X0+Gb7ObI/VmsG5/HGdSeaSd9nZ93rNS/xpTFk/6xoo/h4YR+1ZBd0gOealr00f1Dk+N3akUHCqly+K67tF"
+ },
+ "BR_TITULO_ELEITOR > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "4e4934f0",
+  "verdicts": "utIEpQ9IswJeUcMVTODImmnP8F0jvVT6gQRvxjDF3l5hY45p8wZBqOE5kUL6TISLEF0OHlqGB/62KOEqM6kEStkDjGlwK0LOGrFHCt2a1J6wWsdrii4jIBgO5cwR05oelmQr8CERBjkkgK2WsBrkxgKMUIit2aRcsZwCglWE3vBTwR60vCxp4NhY3RAEA4X1tCHShhMDEtDALpTThCLWEsqI+5UrFsI31kVjTDpMvdLcEE1prGIFQNMYlaxTAfUSy+oVbi24yFB5P4MN9chwXjeSY+BvTakSQKDkbPFHEgoGp/gGIPgoCt0BefwgII9wDKBxDc1APpCVcbkxAZpRVdZx0NYkPPNC4wSYzgwReNQ6WSXvVDbHQAQSQDDpoA9wAU0WVLQtcEwwAEq1iQkEwskyqZGt5rERrAGLYTjawdScOXAehTGuOVCSQZCmFoiMT9gIXI7HWUW7rGvpiAlcyIYQ0jVJ1gfVE1QBQ8hgRFuyR0lQhxSN"
+ },
+ "BR_CNH > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "49379d68",
+  "verdicts": "T1as2DCBbkf3ifhxN/q9Q5FI6Q0wBOpyUYxrA4na2tRV7YQa6a01lwADn142edWFDhaIeTfpS9yqUHWF+iOEo6wmsYZT6DvH7oopYIuiIiQS9lAEwSqeHQ594wRXjUzj0Q/V9qX9pal6YD8OkoKmlzKEfgLdEC4gucLdfnvr2G2sZ1rKmEMMSJZAjxUx2BEZX9IjGgijDI+DmLwrSbcaZfkgoK3g9yplcaBSsmMa0BsPRZWZO6clr9B3GwkSCiisLH5q4OpNDL0MCuNPUDr9rgtE86LIBcP891idqvRblBXPWsJxBLYlQXIR0hRxCqs+iZFT9NailjWfjW4P3a3+juSALgPbE9e6C5UEvvzkmwjLXzJzQVsbcEwoQ8gU7h++XLXy7AeltPREuO59tZI17ljTkBYVAu8dJSS/PrF0eNyXwCT2Ii7vpEw6yfhMyLi4D+AW2Si+VKnQK+/OVPeiSLCag5Y/A0m4QLRj0RAZ2sYwcD3CdNSL"
+ },
+ "BR_RG > agrees with idnumbers (dotted form)": {
+  "samples": 3000,
+  "inputsHash": "3fc7e249",
+  "verdicts": "SqmrPdn3HDSoymvvpQvPffqG7Jk/flBrLOk0DknWr715e9qmrK1YtJb+yvHYXJwkK9uOYFhxt38/c/+UC3+uUGv6Uh9d/Wef4HsBrJMl1lBzHHco3lZaR9q+oA5KPUtV/HS3KS7xqI/e8FgNFCza+SEhq+0j5j2nU5ajW3qa6tLp9o/Y8VQaoGzP2m11xvqsDAxndTF9+HQssx1mRo6r96oIe3ZcViKQ3eJvdracHWB6tMc6/4I3L3nvGbbo5dWZUUmaGpkf6TN9hyAEtaGMf24x0R340iRsdiz7jpjPMarRPrsxnarvqlquZo6r5Hxrv2OqcYhN9CwjraSgbFU+bfmtiq9Ygpd2h7Jym1Avz0IE3uQa5XO8pG3vdXfhnDSoS4EgPsreBz49meZzuy3nyf2peSG8n3r76FuOEv3eRqL7DH+aMvkluNgiJbuBNt5Y9u4eH9+lSXoByWcGKg9X3wW+IxsLtJvbytmeWdGaCjz4x6SfVwdV"
+ },
+ "BR_PASAPORTE > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "7aaad786",
+  "verdicts": "//f//////v9+P///+//7/9///f//vv9//99///+/////3///f///P/e+///3//v/////////+///2///////+/f9/v/////+//7f//v//7v///v///7//3///////f/73f/////+//3///9////////////7////////////vf//////////9+///e///7////////////+/////////vXv//////////f//////v///77//t/9///f//9/////v////7///++/93/////9///n//////v///+////7///////v+/3/33///f3//////3+///f//////9/3//+///////////7/////+///////7///////3//9+///////+f//+//////f///3f/////v/9f///////7//7f/v9/7//7//////v/////////3//+7+///////////+/f//////9/3/9/3////7///////v/////9///"
+ }
+}

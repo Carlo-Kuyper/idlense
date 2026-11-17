@@ -1,0 +1,17 @@
+{
+ "Panama > agrees with nationid PA_CEDULA except AV/PI": {
+  "samples": 3000,
+  "inputsHash": "ede65716",
+  "verdicts": "2a3hGfCfSbX+2tSPaY15feJYL17vcz8vSbfI4X37RzJGw7Veu57+1fSz1oeX/P273fmc/fpltOKJa088q27227K/rf5ex+z3Qlr77bX60f3/htz99N6O97P0Lie/6nsC09em4Fu7s/fr8jts7tNk+5956Bfr/wy1VTLByzZRva/6+mAnfemjfH/d2kPU9p6/BH36NpzeL0Aj9huCVP7/nUqb/0bf//a+PCcCbu/s9+UJ5q3Z/tTvj+LqLPGPxLZHDeH+Mmt3Lflr6u7a74ffL3e53jW8vPaXcrvy8mflnZi6R/tdea5/sNH7GXm+b+6+d9ze+49DywRjgq8qZdXXjyUbHbuFr2Aly+9Xurx3/FunEbV+6m/elf006g/t9gzfsbf7b3d3rct6oK9trPz/Md905b/c/1BtStT4OkrUOZgfGrHMRF7f2pnkBL/+v/+w+LVL3YWteC+eY4Z4H31WZ93IHvXxt/n9AYrPJs9cOjPuvTfrThm9"
+ },
+ "Panama > agrees with nationid PA_RUC except AV/PI and Folio Real": {
+  "samples": 3000,
+  "inputsHash": "3ea0ba6d",
+  "verdicts": "vvPcneDBXqeAFz3ELcWH0cOh+FNUZkfszJ+UtG8oIyC+m3p+70urzPT1Tactt6Wqk4QWyD3v7ups+S4w4q4rFqO+n5oh+s+r+dil6JPT7FKFzvguDjv6saWr4Ez9WW/k5i8DpNSkb1y6MCsHCsPolXJ+7X2U0CQroN3ZfOUYJHOE6aB14d45ZhId3KCpdam8aZ840O/gY7ilTCMn12+cg2FO8ZpQ8rIoxhytaasamW1eVUfEKbO8+Ex5GxjmyxoLr9jP93mE5K/3+hYfPTfAnOE/er30uVnvW1oNx8nFizoVmd6zEJ645+0+pnh8M4dgCnQeG1TlpG2JhBR/tCRs9mcUff6Yo74ENcv1kBjPw6XTGGTs9oM79ksyRR3GCy6epD25m/NR+EZ83f+b+54Yqon4isMIwRYz/I0ha/8qS8//U+fNzt/rEWyr5/RTMwCcF6S8M2PCR5fk7owUsSW3AL+j3qLlw6+i+75/ZZfvNt+fi578MHgK"
+ },
+ "Panama > agrees with nationid PA_PASAPORTE": {
+  "samples": 3000,
+  "inputsHash": "8f91d52c",
+  "verdicts": "weWBgHIGhkWZiRnq1tQwUpsERPOEUoUTEAOhOJ8C+OnhzkpFkJyMkbvVc/9lQT0K5lenQ1c9GuZKzrCEIy+InbAALRCtVeqo7yILIGQ3DAH8IG5GCx0Qhz7O61hUJxceK+OQFypAJ3Q5KBMYzTe3hC8Wu+yqCudF0zUlIExFaxkydyE5wWlVjgaRmDqk0NAuQPhNHsGhPxMm0cok5THCSGbKbL7GKacjN/2gaqzNQPWspcpd6VX3BIiCKKSTxpNQikLvJL/d0AYhDxPm5s9EwqurY3DCYcJHWemPLXhrmBa4Qamm2gSV4t6Ov2NsJKb0ciAj1u1hsg4oNXCpZm/uwUiCLfUe6KKEcdgoUP0DFbGIxCFUMNKAg0K7OuQ7iMMwtwGHJbWFDxheY9w4wAF4lE8YeM8w1s6hF6sIaukKc3kqSQIA9tUq1ZT7eJmyTfggO6EcYWCOiAJPykJJe4XEixHfufAC6qgKgf+kGBH3QVTQRCYKBNtE"
+ }
+}

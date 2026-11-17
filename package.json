@@ -1,0 +1,36 @@
+{
+  "name": "id-extractor",
+  "version": "0.1.0",
+  "description": "Zero-dependency validation and data extraction for national ID numbers worldwide.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "gen": "node scripts/gen-index.mjs",
+    "build": "pnpm gen && tsc -p tsconfig.build.json",
+    "typecheck": "pnpm gen && tsc --noEmit",
+    "test": "pnpm gen && vitest run",
+    "test:watch": "vitest",
+    "coverage:docs": "pnpm build && node scripts/gen-coverage.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}

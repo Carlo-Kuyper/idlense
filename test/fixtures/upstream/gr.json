@@ -1,0 +1,22 @@
+{
+ "GR_VAT (ΑΦΜ) > agrees with nationid GR_VAT": {
+  "samples": 5000,
+  "inputsHash": "4a67202c",
+  "verdicts": "SqnLPfn3FDConmv/pQvO/foG7LkvflBpbOk0TsnGp79429qgrK1Y9Zb+2vCYXJhkOdueYEhht3s/a7eUC2+qUHryUg9e/W+/4HtBrNOlxllZDHco3l4aRdq+oA5DvUtV/PS3OS7xqI/e8FgNlC36+SEhu30h5zWn05Qje3Ka69Lt95tY+XUI4OjP2m11RtqsHAxjVTF1+HUOsx0mRs6r56pAe3ZcVgOQ3epvdrK8HWJytM86/4ImN3ntObbq5NeZUcmaGp0f6TF9hykGtLGMf245UR340iBsdix7jpjPMarRProRvapvyl6uZ4a7pHRpvWOicSxN9SwPrKTiLFW+bbmp6q/Zwp52jrNTm1Ev30ME3sQaZTv85n1LcGZp3DSoy4AgPureBz48meZzv71vif2oeSA8n3756VsOGvneRqLzDn8ae/0l/NoipbuRNpwY/u4+n9+lSXsDyVckAg5X34W2IxsLsJvbwtmeX5WYKrzwxyQfUwf1q6p7q0WXV88xPkn/JKgcoMMTk/TlS43d/IP7Sj/xza7T8/Wtbb6iLVHrGeOHXP6iQP+o2354V57fImbPvANNzgIGOEatastOjrs+iWotPTncwtgf+WMT2ZSTLzk/o54uGNu/Sz06m9l2+iR4FZwx2tHcPKqJUHKiEs2ZqzfSc9yPPt7GGQ86BTB5KTDmfSuVOu/nXsmy56MgTkHWnXoJnKfNL5pLb/Vx+K2d5v1f1FulZf39CyoIXrg0jFOe3XH3Xze0+cLLRl9vm6e2fNtfo37rmbXuraeoYs3ko7L4V0T34sJbhTSmx8u0dabxy1yTl3SbAih/nqEBlQ=="
+ },
+ "GR_VAT (ΑΦΜ) > agrees with idnumbers GRC": {
+  "samples": 5000,
+  "inputsHash": "4a67202c",
+  "verdicts": "SqnLPfn3FDConmv/pQvO/foG7LkvflBpbOk0TsnGp79429qgrK1Y9Zb+2vCYXJhkOdueYEhht3s/a7eUC2+qUHryUg9e/W+/4HtBrNOlxllZDHco3l4aRdq+oA5DvUtV/PS3OS7xqI/e8FgNlC36+SEhu30h5zWn05Qje3Ka69Lt95tY+XUI4OjP2m11RtqsHAxjVTF1+HUOsx0mRs6r56pAe3ZcVgOQ3epvdrK8HWJytM86/4ImN3ntObbq5NeZUcmaGp0f6TF9hykGtLGMf245UR340iBsdix7jpjPMarRProRvapvyl6uZ4a7pHRpvWOicSxN9SwPrKTiLFW+bbmp6q/Zwp52jrNTm1Ev30ME3sQaZTv85n1LcGZp3DSoy4AgPureBz48meZzv71vif2oeSA8n3756VsOGvneRqLzDn8ae/0l/NoipbuRNpwY/u4+n9+lSXsDyVckAg5X34W2IxsLsJvbwtmeX5WYKrzwxyQfUwf1q6p7q0WXV88xPkn/JKgcoMMTk/TlS43d/IP7Sj/xza7T8/Wtbb6iLVHrGeOHXP6iQP+o2354V57fImbPvANNzgIGOEatastOjrs+iWotPTncwtgf+WMT2ZSTLzk/o54uGNu/Sz06m9l2+iR4FZwx2tHcPKqJUHKiEs2ZqzfSc9yPPt7GGQ86BTB5KTDmfSuVOu/nXsmy56MgTkHWnXoJnKfNL5pLb/Vx+K2d5v1f1FulZf39CyoIXrg0jFOe3XH3Xze0+cLLRl9vm6e2fNtfo37rmbXuraeoYs3ko7L4V0T34sJbhTSmx8u0dabxy1yTl3SbAih/nqEBlQ=="
+ },
+ "GR_ADT > agrees with idnumbers IdentityCard (two letters)": {
+  "samples": 3000,
+  "inputsHash": "6f38149d",
+  "verdicts": "//////v///+///////9////////73///////////v///vf///////////////////////+///7//////////////3////////f//////////////v///////////f//////////7/7////+////P//////////3/v////9////////////////3/9//v//7+f/f7//+//+//////a////////////+////3////////f/+////9////////v//////////v/////////////////////v////93///////9//3///////////73////////+/1/////f/////9/////////////f//7////////////f///////////3//////////3//3/////////////////3//////////+///7///////////////b//////////8///////v9//f//////7/////z/////7/9/f//9////+3//"
+ },
+ "GR_ADT > agrees with idnumbers OldIdentityCard (one letter)": {
+  "samples": 3000,
+  "inputsHash": "e38d4fff",
+  "verdicts": "fff/////6vl+L7z9+/97+d/r/ed/vv9/7597//8/178/z///f783P/eU///3v/nf/7v7+ff9+3//2///338/+/f9vv/3///2/v5X7/v//5vX+3O/f/7//3v//t/n/f272f9/8/9+v73/p/9//9//13/1///7/fv/z/79/7/fuf///+/P7///d++/Xez7/717/p//tvfv93mv///e3vfvuXr9/////1///J9+//5tv/6177+ft/8///f7/9v7375vv///79vt88780//7/79//3n////7vj//3++9/+5///+v//ta93/33+//Wn+//7//3++f/X3////9lf3//+1/37//5//vPr/3//3+//996yfz/39/v/9ze/9Yf/7/v3/+f//+/3/73fb///3b/3f9+v/9e//+/3/v43fyX7v9+ra37/+v/f/t5////19//Xu7+r+3/f/v//v777e/b9f3//Z9NT/1/1v//X7/373/9vv+////d//+"
+ }
+}

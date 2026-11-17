@@ -1,0 +1,27 @@
+{
+ "CH_AHV > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "60e42af3",
+  "verdicts": "//b8z3++83XrV77tcu+/tGWt0Ix7bV1zreRPdK/3v8/enrbf8dq30XP1AvkA//Xbk6dlP0k3/lKZCiVeT3bp+U8VrPf38adtLsF3oPzlL9uu/d3hO/zpA19Lf/bsX+Ol3v95K+nv7em/392xjyXJy6qc0Px7479cz42m56CtYKf0xnLHr7+9Kij+4evrsTkmQufGv9qUbMdXk12r9ePlhy5/+0bvfqX97eav2a+q/r7nUr51qz/+b6z/oG9LO7v/F2t/zYk9yN3/cf3L7uRnWeHX5z/PephbsMPy+78zfVrv3N8Uuvu1Qdz/4xyv877JvTf9hrnF+r3u58dwdrfnp3qq1/u7cXlEfhiy342du+39Xvsnd1c9+x8v66prLuVs9XV/r/yt9h0gdGut7S13dsP3/N3bUb/M7HXxuq/3wdv9uw3NaX/9DOgOT3f+NB+zByl4fU3rpyX13Uv//7/XZZPT5jo/93hqHvlfvRdyvPqM5W7v33vb"
+ },
+ "CH_AHV > agrees with idnumbers": {
+  "samples": 3000,
+  "inputsHash": "60e42af3",
+  "verdicts": "//b8z3++83XrV77tcu+/tGWt0Ix7bV1zreRPdK/3v8/enrbf8dq30XP1AvkA//Xbk6dlP0k3/lKZCiVeT3bp+U8VrPf38adtLsF3oPzlL9uu/d3hO/zpA19Lf/bsX+Ol3v95K+nv7em/392xjyXJy6qc0Px7479cz42m56CtYKf0xnLHr7+9Kij+4evrsTkmQufGv9qUbMdXk12r9ePlhy5/+0bvfqX97eav2a+q/r7nUr51qz/+b6z/oG9LO7v/F2t/zYk9yN3/cf3L7uRnWeHX5z/PephbsMPy+78zfVrv3N8Uuvu1Qdz/4xyv877JvTf9hrnF+r3u58dwdrfnp3qq1/u7cXlEfhiy342du+39Xvsnd1c9+x8v66prLuVs9XV/r/yt9h0gdGut7S13dsP3/N3bUb/M7HXxuq/3wdv9uw3NaX/9DOgOT3f+NB+zByl4fU3rpyX13Uv//7/XZZPT5jo/93hqHvlfvRdyvPqM5W7v33vb"
+ },
+ "CH_UID / CH_MWST > UID agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "27f0a550",
+  "verdicts": "umKK+9Cfv/x4ZNLeP17L1whr/30+7ED/uXmnXsOnE9Xq8mDd0T7+90HblZ9a3QmT+Kn/fJ+4tzrZlY6e647/PGz2eOmnlZ+jz57tAIZbui9XerzJIe88VZGX3V16cfq0q3zf3TbfjrMvRDHG/68U8VSOozeXGdb6f3jJmbHPaEaBLmS8iBW//j8f8pfq752N3s5mrp/7R7fRq77dFwXTO3pf/bn/56eDb0J+W/X4v1zwYLT1Pda7dr1QrbtXEffXis2MS87jV3cfDmplzNSaq94Kitqt2J53VoSNLjTNt6H012uRNEsiu+rieioeHseN16g6sFonRZEsH/BWNs9lf9Wq7gHtr9xTJNn8rrIQl9Rd76Xstmk1wr7zNHlQ+pblad/ruze60mDsfeC3U6Qmtph2etlUuweq4rnSfLTVIP+jZKyD9yLWSzXedq+ZbvbOnv61mVbZ7f2aNuq9gPIDUu9zz3sFrmdqmT/9P4HAnCmJf1lJVqnf"
+ },
+ "CH_UID / CH_MWST > MWST agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "323b109e",
+  "verdicts": "/vT8z2++8KTrR57Fcq+/kGWlkAxrbV1hreRP9Kdjv03emDdR8ZqzkfN1EPgA/ufTg6ZlP0k13tKZCCFOznfr+U+VLPc3saVoPsNXoHSlLfuO7S3xM/jhA18bf/XsX+Ml3vd5Kqmuwemn393wiyFJy6ie+Ox74r9cmI2m57itYKf2wlLHjr+9Kij/5crrsRlmQOfEP5rVSIdzE12r8ePlBx57+cZrZoXd7abq36+q77/nUL5lq73+a6w/oG9DO/tehy//yQEcQNz/df2R6vRneaHX563POtibsoPze/8zfVrPnN8Winu0QNyf4xgr4rqNvbf9xOHV2r3u58d0dv9HgzKqx/uvYXlA+hiy36ycu+/9Svsnd1cl+x8vsa57ruRM9XU/v/yt8g0gcGut7S03dsN33FnTVb/c7HVxuo7nSdv8mw3JaX99jOgeTnX+MR+jBSl8fUnjpgH93Uv+76vfY5PT4jo19xhqDtlfjbdy/PKI5GYv33ub"
+ },
+ "CH_UID / CH_MWST > UID: idnumbers checks only the shape": {
+  "samples": 3000,
+  "inputsHash": "27f0a550",
+  "verdicts": "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+ }
+}

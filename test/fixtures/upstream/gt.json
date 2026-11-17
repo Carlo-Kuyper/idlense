@@ -1,0 +1,22 @@
+{
+ "GT_DPI > agrees with idnumbers": {
+  "samples": 5000,
+  "inputsHash": "3c25ece7",
+  "verdicts": "jhQAgASAJhCEADICgEBkQPAemAgAggQ1BZAEDAEwQIYQEQCBCUAinAgIAhAEAIAFBmQKMCFQFiJLALAgAhHwikBAQAolBHARCEYAAZcQohAkgAAAIMCQgAAAUCuAkCRIQiASAwAMChAnCgIAEhAgIAQCAQoBICEAAABAGDnFCMJITABEBgAIFAAQCHwBABEygQIQaBAFytAiCAqAKjEIBtEcFDBABKIF4BAABAM5AQE5AAgACgmQAeYAEASADAAgCAQAAFCETABUQAUFWCUIRAUA0AAhg0AJqAQBGCJCYYAABIKDIIwyhSiwEAgCALBEiKiAkQSOAhAhcICCgBCg0B3AyJCBQEAFCSADAEcIOzACiAIDAECCMAKFcAAWFIEaIgqEgAAhAVciBoDAJRAAgKGDJALSEVyhDgIEgLAiyVLHAIFAEAAKxNQjhAERUSyQNQAIAHdFE0IkAEAQMgIQQCACHAAAGwBlAQBAkCJECwQAqMh0AEAgAFEZAEMwAgFhCAACgQQCIEIDYwAACAEBCgLADAE8BAAKEOAAAIAgQbiCCLhgegRAgACAIRRBLkCEAuYUCIQAEMgUAhMAAA2ZAKQVGCNABpJhEROHgGYYUoICwFAgAAIqoBIQIGIEEKICcgoRwATCggAEAgICECACSQpQAoQgqCReEJMBwAigAQBcgUECAzCoAAhACEQgAAkggMBDkCiAR4bwiCCAIIAAGBIQAQNDJRiDQAAihEQAhQUEGEkIBgoFBiEEgBgUi5CoKyAAGIKCEBAABIRgIgEAK4oAAMgTIwEkhkCRIgDAAEATFB4gkYAEoiMgBDSEQCMQIA=="
+ },
+ "GT_DPI > agrees with nationid except the municipality table": {
+  "samples": 5000,
+  "inputsHash": "3c25ece7",
+  "verdicts": "jnTewj6QptGGAHITylvm4vZf+s4gwqR3Z5qFjM++3PYUtZC3S9JuvA2dLhGVMsj9pmUqMiVwtuJv2bzvxlX5z1diyVolPPF5nv6IWbfS6hE9inwcaOrQ0dhnVC/hknTJZ6G2U8WtCrlnDmuJElB1I0/XVU+zOnVgQCRFnT39/ObpzMhthnhq/QZ3Hf2/DJVzoyIZ+NJd2tOvOQ6FL3G9l/GdVLNb5L+t67jtXsM7XU190Et0bo/S5fe3GSSGTAJs2AY7EH3HbvVVZf0/e3dJdR9A8hljh9eL6HSvfPLHc8EHZ/avNd3ynaj5fggWD/DEreqmtRbOSpw5doXC0BTw2F/M3pGF1FJ1n2RLUm/ov7Oj6A5jjMvjsEafeJPXHssaY++8yXmxoffm/oHY5X5ekfHv5TfbWX/jrq4Go7Fi2XbHALHBsX4u1N0j/YcXU+/aPTGZv3fVW/J9y229ugt1QaaHnoYA/y5tD4RS3iJFL/62/M99A3thiXEfQFu0jlthOQYahUQfIWa3b2ZnSDUNegriDHE/F7mLmPVy7a/jUbriKbxyfxziv5yB8xfNP2K0g/+0PJVAnM1VzreSHV37RaSXuGdORp55FzP/j35835IS+HEpLAJ/rrJwKXP8d+f7/y6zwGfSkw1MmlbWuD7fW05dD81g7OTe9pfHwK6gHeD91WGDJ3u7WkrxHscpwG03l9p70r6iZ5b4/rGZJ4zWGBrVkxdjPTnD0UQyrk1glVekHd1/N/slx6Uv2FhU+/u4620aHNLyOLF6TJfpZw0oK99hFtkbaxu2ps+1KnLpPFg/lZ/pn75FuiMvPLb8S7McoA=="
+ },
+ "GT_NIT > agrees with nationid": {
+  "samples": 5000,
+  "inputsHash": "5e307bfb",
+  "verdicts": "f99X33M+2/3fv/85L319Y/977J3lvz79evr9f/Zf7/Dcqv+dF+W/3Tnd/v/tt/etc+fR9f3tr7m58q9Ou34PMO7frfVO/Xu336/vvu+r+n69Kb/ff8/u9d7+9bp/m2n9e27t33er2HzV7+t/ejv/+nZ/rm///OHc/g2n2if780eljG/S/fvCf9+8d26vavfprb/yr1+j+eLvv/+1t/+b6/0R5Qph16bz35d/996/rPvfu/3ru07tf6uxy//j/a/3pn7/73r7Sd97vfT370HvOK/3pz9/R8n3O+Zn+x+3PvP7/v/m/7//bmj9ozn+/SH//+Ku2qj/r3ol48tuXT/n9v3d/clbt/9/+O6t8/F7r3////3/f/nH8+fz76L++m6D73zv5ZX/r6eiPm13/2Tda7L/9/36/Pl/8ZbayrF/7Z/yzN+PXGWtv3dv/q++n7av7z/2av/+5/O9Gai9zd/7S/bV7+63v///XxV3v3fz1+c8ynVZHv//c1v6s9HnTXv77/tTez81f++b7en97fP5tu2v7w/633vMu523t/nsX33P683dEoff/X/f7vq9H5vN9/n9d/9/ZL/95v/xf6f/pm2X+/9r/n5z3/b9z+f/njrW/7tifPX53j/f/9vO+//cjbc7ff30f199r/viX1rWbtr/v6faTnxv/+/87ffS//ffP73v+vW5//9+u3687/9f6X9aod/pT7aLEc6eCdVvnu+f987x//DTm3//tmPv2p5d52v3997sW73vju/79/dU+96O+56+vXWtvEft//c6lHbL/zf9oy2aXd/vHFvmn3f3Z8M48fPziZ7dvr/P/9v2tw=="
+ },
+ "GT_PASAPORTE > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "eeaa64f6",
+  "verdicts": "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+ }
+}

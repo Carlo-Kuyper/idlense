@@ -1,0 +1,42 @@
+{
+ "Colombia > agrees with idnumbers (COL, which is the NIT algorithm)": {
+  "samples": 5000,
+  "inputsHash": "2b09a24b",
+  "verdicts": "NyHuvNLfSidSrfry7HT05xkWa7gwjvV49a72U0f20SWOLYRPfiOpTzfsbxtLU7GlxP9GYC189gSMH/8f4O6NrxcyRPKcpFkVosV7x6xulZjM46whgu111bja7q93dh/d7jBC2uNt7DjU9XeT7MCP1U7kD7YHmj+7rwe3t2x4N0dEvJLCOtGZsFnCgiPawcz8seqIvgv5q1FYaVkJmcdhu/9hWywuKVX8+nsFkPtfsRkvkWi/uw/TUWp6S6V1KrSW2D5U9vdqVB9YQxtCW6CvIGR7yERj9q6EKl6ncsuaTB+ui3bGxMfJoC16fydfS03wDLv484sWwu0OGBOSxEmp3fQ7TS5ZopTHP36E0cgOiZ/aAeNrDE5H/txmdfim6pQ6AqLtzklh7o6kB0BnDKVGH2wV+EtJH/Nv3Y/tr81T5dqyOvFvUEmlxr+ikut6P/AanZ55Vs0L+ykr7r/9i4wMr93SvsF0LuYAdGaLna95nZWP+kpWnxA1PT6/nH3TAbkle6QqgTi1K+aTF8Nq1Ep/kYEGhNjk2WS9W9Lp9PuOSwpT/fClP96cC44/JYxkm0YF7u32jYrLznNboZpRzvwS/Z5Ko/pfKKfBTXK/V4WPY4hDjLyz3B6ZWVPO59/f5eizwrk6XrlUpSEy9YyjiqnUdOdnm+JoPeNIADic9on9ouS/3bp7b7ahSCdzx+iomNVG9uomOr4BzVtYzwupaM6sOkc3owhMO13WSxn+MpoWZ1fdlJt9BX+HlP4f3Sw/UsT34X/HxRXvmx9L9c8+7JkWMZVc+JC7UvefClVerHLXpTXsvnzvEtKPeOZar76o87f1fg=="
+ },
+ "Colombia > agrees with nationid CO_NIT except short bases": {
+  "samples": 5000,
+  "inputsHash": "ae47e1f8",
+  "verdicts": "AREAEBJxQCJaQgAwQDYggAIKAYIAADAYAosNBIiGNQSIYYHKAJMDYCiAgAYAACgICigCjoIpEAAmSUAELAkABAIOoAsAJCWEIgIVAAEBUIUCABgEAgyIQBiCAAIcmEASKCAAKABAAAiwQBCRAHgoCAACAAIAQgEBOhIIIIElBQBYADEBBCEQCAACCQQAQICAAAQAHgIZJGNQYIABgB5LAIKCAApUECFhIAlAAUQRALsAGWFIcxGCAICAI4tgJoCQEBJQBBmBCNEiAwFIKgDSAAIBgEAQAECHEAgCAAQVBHgsAAAIIBAAKqHABKSgIAkAgEI0BGQAmIYRAUMCU6AQQCAoQOAAkBHEIGIQJAREFQYCQKCZAQAAhIUAAAAEgAAQAQGBhBhEsBAQQIEHAISgIoQMABFBiAlAAqAgAIAgQwCAIJAMAAgGhaxQBSAJVUBkwIyDgCRhgQRKEICkQrDAgAQAJi5MAACBAYEEEAAkRgJCAoGkCDAAMIACAAABgBQZCgEkEQoD0FAJAYj6iAKAIPBAQAhQAEBBAEkEEgEcQBAAAABAgAAC0EYiJIDEQShAEAEYBEDAAQNFCgAACKBwAQGAvAwIBSQsiSGIAI+gRQgIDAACuSATAAAABBAyCIAEBBgEwAFAICAABAAAAABAAJQACACgABmrILIAAwAAAAIRAEAkAhgUAawIERABwAgoAEaQCEU0hUAWBSGRwKgQZAUABKAAgAYEAABASZQKJASQIgxIEQBHBEEgNAJhACYpUICEAAAAAEIAGCzBAKAVABEACIMYigYkoFACwCQdEMACBWIAEQIQgGBCAgEIkJDxgg=="
+ },
+ "Colombia > agrees with nationid on format-only documents": {
+  "samples": 3000,
+  "inputsHash": "5d53b54d",
+  "verdicts": "P9/bV8vL22/+65/U7f/vl7t+vT9cr+2nr/es6fL36yQ/dZd4+/f3/Ok/13r0X/WrWPf7+7Qv16P+7+H1Al2Nx+v39PuvLna7l318t9de//v+vK9/Mf+28/9/be3uWv++YvzmTm98J/9//9V/lhfivl/n2s9dte+/f77U492ve7H3/9uWP9frE/55vPmKL/77s2i65lPe79//f3f/btM3WvHv28dbK/eszX22O27G//3Tns3/Z/ULrX+Z+P8bT39++3+7z9uX//5e2+k+/bf/+f5r+n9nV3k9u/92d+5v1f65/j5PPs/+b6fX9/c/WZD53/ZX79x/KXff+tH7Pny37l36s+17bviPmp+ubuTfvu3X3N3fe79bv7Uu7f9T177v3r7//9bdl/7v7zP3Wor/t72l/997vu0dxv/fW+e/+87zHSv5P1a7t+9fvsj/3kJ98tf19/87y1hn++7tzeyT+7G/iO/fbtva73U/+n+y0/Z28v/Z/te7"
+ },
+ "Colombia > agrees with nationid on format-only documents #2": {
+  "samples": 3000,
+  "inputsHash": "b1c43c35",
+  "verdicts": "n9inP+HeoMlqr+sI2mm0ksPFq32g4qhwatmmIuuZsv5ZaR+89QTlfoi6U7/RJlhOtE4hVTBFhsDfC0tsav/R+jPhuSLDcHwXr9BxEqKTpCXgqmtarIwlyMD9eb2qbuADcBgqt3aZYBFVhN/RXDE+Kx5KAT/rs7yCvFh1S5VWtlchdSNe6HhwN5dIAJn+NIh1qMvYCdQJWhFNzGE3fc3kZwFnDfqBriZ5shR+NINB72HxG0lzrhuoIJWZsxUjpZ6ZY6kFpTD9KKrlm6Sk5Wk3yinjReF9bP9WV4kmjIGPyCN4kF+lLlFPSePPV5Xz9a0karFwN3+S48M1RrxwSjAqXuZqGmMqLxg1UzLtKtBmrfYEU7rW4kI91kIfcC/c8o1FHnw+DzQTniOD6AKheIFsGhAdsMm3uIxdq/q1Ujs2V02P1xVp5VaE3Fo+JeHm9jJECyLOSOk1erpiuahQLRDH175FZ3yK9OTK25FIS59GFdQVMh9mNESL"
+ },
+ "Colombia > agrees with nationid on format-only documents #3": {
+  "samples": 3000,
+  "inputsHash": "b22af01c",
+  "verdicts": "d339c/BGPC8+5VD3lmenuu+iuza0k+wNF/3FrINU6MvO2SfgTe9Tj3LmfU2ek+PV+z19f2tt67XkevPMXWKp9lj2jjRd6m79XcvUqtvYqfc9U7+rsZ9J2Wttu3PVWDx7u65V9v86v9e3rnE3wemodx3PfEZ8Pn38kEZh9rlgF2WfPzZ4ime7A538bdbP37bn67m1lPR/ToKzHqyrP1Ye/7dtd5l9X25xe6vA5/dI6V+/4Z3ExwXjGO9chk7Ez/t3+96x3s6j59vD0exadurtMDwru9uYb2cH2HK43ynWXz3fqxmPibhzyD28Ju0m7duFdn9+KyvtHror+uP2Xc5724n254RffKX8qjz51PZzrpuQ++v3uv128av5HTk99Pv/ldxzbqoZ5T6X75U/Z1/a1zfq34ydz+k1p3cJoZtVq9rvhDTo8yzfyvU/7d/L95HUe7ctx8au9e7o1fVrUSxxo4EZ/XP+Lu0iDXjK6dok/31etuX3Klfz"
+ },
+ "Colombia > agrees with nationid on format-only documents #4": {
+  "samples": 3000,
+  "inputsHash": "1758f928",
+  "verdicts": "AaIrgOwLI5NGRAhaQSZFVKSABwbwfWIHV0AIY0TVQAOgKQhQgw0IC8JQmMVbAKuSSk7I4hQ1kdxATUJBqJQByYB0hoiRhctQGBmAAqigxKXJDoEKAMqCgBwoDBXQQHAtcCQuQ0qQMIJEocvKFSenJgXkQuImJJFkRMeDUMQoQcogYTOYAsoQDgwTQUgFgU+lqEqoLDbR4IEJ+JADBICZgDCAuguYhY4dIxTHkIYKkINgoiYEAcg3bb8wcbPICRwEGiFnIFMKBlGIJG4bgkTDFAkhkBJwRRm4ZfgCEYBMAEUAAwk9hZwmC4q+ACc5Bq2CFKI2MwBKw2BQEWIAYoxVA7bJciHBxKTTUEADlgBMQ4BEB4RZhIIhApbEtqQ4G6mnpqDBSQLIAqQgZGABWxGoCCglKCJkUcEAmtKhBvDgI7MbggZIoGSYQJlJcxK9DCRScIeACEHBXDILBAwCPATFJAKSEEIpMQEwIAogBbAJuASCkAiBIksi"
+ },
+ "Colombia > agrees with nationid on format-only documents #5": {
+  "samples": 3000,
+  "inputsHash": "6729e085",
+  "verdicts": "3e/9Xev767I9qyr/1Hf+laH9zvZx+L6n/+/5mvfbuzf//n7pO33a9u8Psvvq+5vxN/+E+/719eP/7fc4V9ut+36330v+78v/eZ/13Zv++Y/q7PO5/b+T/frVEWTu7d/78yr/q7bc37fvduH9//a9gZ2tK/5f/7/j3tcbTTP8Zu9/1uDz/93t/rp+e8zN8eOv3r/0/Z//P/zU97fNTrf6Gf97233v+N6/PX+nuZfn0n3t8+e+r758mXf127t/q72We+ev6uKHd//8Pb/713/40wt6VTu+M73/e93q3/rid/u8/d8736f98lv/btT599X+hvbJ5/fX79u2/S+7t//v3/r59zjdNTNMd/v/tLZs2/1X//++l/u96u3RXix/Z/7n/Nz7/f/X7/Qf/j+tv79ft28XZ/lH/nJbSod976JdGYf39ejfLz3vH/6q/+2/0ft7H+7+/b+t96T8Wbecn+X/TdtPP7/uf4XL///9Pm+F9/k69Pp7f+/n"
+ },
+ "Colombia > agrees with nationid on format-only documents #6": {
+  "samples": 3000,
+  "inputsHash": "aebcbd71",
+  "verdicts": "f1/z3/df5/7+/1ra/f77v9HmXL/7dX9r/x/Gt9t//P+7//n/XPuvX70/Ln33//n/v43V/699e8V/33V/62fu7K7n/d7/9e99+62vDrs/v97z1/p//9//eZv+rc7b7/+1r73r7u39/zQ///99+f/bd3f1n//e7/k+93/7d/1/n8b33/6ff3SH/73/2R99/k/+0f+18vr+t/f3+3lLO712+t3Lv6p/Dq//bcf714a3/++493c2vfxXr+/9XS/PvfX/778382/35v+f3W799/3//c/v1dyN7/7fb/ztfd9vv6dfd//u73faux///t5/Tv3/db/33/f+/v+/+//7///fv73f9t55+3u9d897Z7+f/+X+XacX3799/u8x/9nV/8Ny1//Wn7X3/99hzf/bv23a//ac/v/97/v83F9+VurX/7v4r7/yfqo//6f/37/5ueTr622V/e/vt+1NPr/ctfvc/vVqf29/39/vsXL36f9Zlb/ndfX/e/3t"
+ }
+}

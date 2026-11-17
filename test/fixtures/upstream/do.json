@@ -1,0 +1,22 @@
+{
+ "Dominican Republic > agrees with idnumbers (DOM)": {
+  "samples": 3000,
+  "inputsHash": "ad44ac67",
+  "verdicts": "fpv8VP8IKb9Vvn6Mrj92reLLzzbtZtW959TqNvN2ymby2e0WRrk7+zVFYgkOLyjx2xmY6NG6cFkiB5f8/dB6rFzbcRPny32at65rLLzrtf/oWMNy/V5XRPF/1W+AeLd+RZPBz74dm+mJ4VbqbZ/l8sO8R3e/Jsf+Lc/732BWL5HqZm5lgUYG/fuZd2VfMWNhKw+r3CBkO1P4OCx+5/4tZweXrvzZgj88d4M3cSQT1/O146qsvmQiofI69LDmjfftQW3lXOLH9lmI/wiWn16eeV2zkf3uOHHDcbf/K8c4f9SFpIv2n+5R/b3qN0po+eus27T6jOjdxNB/vexllyXNa0oLzx9auS1n9vlTD29VzqlmrMamA1Eh0RN867HaOcXMtkLKs1uHDd7vbK+Y2c+xILL+l7nJt8p4I43gVN0rUCbrT36/R14bP+oNTjnJ9MnpPtTZehkLT8xO3pjSiT/N2dffzy8tp2Pe4r15nVFMLeeLm58o8aLb"
+ },
+ "Dominican Republic > agrees with nationid DO_CEDULA except the exception list": {
+  "samples": 3000,
+  "inputsHash": "ad44ac67",
+  "verdicts": "Xpv8VP8IKb1Uun6Erjc2LaJKzzbsJtW559TqNvF2ymbw2e0WQrk7+zVFIAEOLyjx2xmY6JG6MFkiB5f8/NB4rFzbcRPmyn2ap65rLLzrtP+oCMMy/V5XRPE/1W+AKKZ+RJPBz64dG+GI4VbqZJ/l8sO8R3cvJsfuLc9732BWL5HqZm5lgUYG/fuJdmUfMWNhKw+r3CBkK1N4OCx+5/wtZweXrvzRgj80N4M2cSQT1/O046qovmQiofI61LDmjeftQW1lXOLHtlmA/wiSHV6OeU0zkf3uOCHDcZd/K8U4f9SFoIv2n+5R/T3oM0po+Kus27T6jOjdRJB/texlliHNa0oLzx9auSFn9tlTD29VzolmrMKGAUEhURN867GaMcXMtkLKk1uHDd7ObK+Y2c2wILL+l7nJNoo4AY3gVN0pUCbjR36/R04LP+oNRjnJ9MnpPtTZeBkLT8xO3piSiT/NydfPzS8thyPeYq15nREMLaeLm5so8aLJ"
+ },
+ "Dominican Republic > agrees with nationid DO_RNC and DO_PASAPORTE": {
+  "samples": 3000,
+  "inputsHash": "5f372b5b",
+  "verdicts": "SqmLPdn3FDCoimvvhwvP/foG/NgvflBpLOk0DknWp714W9uBrK9YtLb/zvy4TJgkLdOeYMhht3s/Z7eUC2+60GryUo9c/Wef8HsBrJMlxlBxDHco3lYaRdq+sA5KP8tV/Hy3OS7xrI/e8FiNFHze+SEhq20l5nWnV5TjW3Kb69bp9utY9VUI6GjP+m11R9qsDIxjVTF3+PQMsx0mRp6r56uAe3ZcVwqQ3eZvdracHWhStMc+/YYmJ3nvGb7o5NXZUU2eG5kf6Tl/jyIGtKGEf24xWR342iBsNq97jpjPMavRvroTna5/ylqmZoa7rHRpvWOycWhN9CwDrYWAbHW+bbutvq/Ygpd2h7JSm1Iv70MU3sSaZT+8pG1J8GRhvDSoS8AgPsrexz58keZzuylnyf24+SI8v3r5+VsOMvn+RqLzbn8bMvklutgiNbvBNpwYvv4+H9+vS3pBy0cMAg9X3422IxsLsJvb0tmeebGYCjzw7yQ/cwdV"
+ },
+ "Dominican Republic > agrees with nationid DO_RNC and DO_PASAPORTE #2": {
+  "samples": 3000,
+  "inputsHash": "8d7cc677",
+  "verdicts": "//////v///+///////8////////73/+////////7v///vf///////9///////////////+///7+/////f///////3////////f///////77/////v/3/////////f+/////////7/7////+////P7/////////1/v////97///////////////3/9//vv/7+f/f7//+//+//////a/////f//////+////3////////f/+////9//7/+///v//////////v///////////////////+/v//f/93///////9//3f//////////73////////+/1////vf/////9/////////////f//7/v//////////f///3///////3/////////33//3/////////////////3//////////+///7///////////////b3///////f98///////v9//f9////v7/////z/////6/9/f//9////+3//"
+ }
+}

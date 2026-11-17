@@ -1,0 +1,17 @@
+{
+ "SV_DUI > agrees with nationid except the all-zero placeholder": {
+  "samples": 3000,
+  "inputsHash": "3ba3035b",
+  "verdicts": "P7HnYDZz5IA7tU+8nN9rbxuWK5KOs978ydTYo3l938EWfR32NHVo5Fw9A0Lc3/TXre2ZfXINLbyntRInh5tV9ZrPe81jvUn6oqWbmsmjEja1eb/1NXbnma+FdOMeSy0r1fck5NT38nQLeAlt/cH8pdX6afbe8t8uyI3kawdT005k834evr1qk7vzq4Mn9z7uBBxwrNF15H4P+5XxyTfHDUn8eJRPSNvNe8mG5O+x7zpHXL6FvT/+umZ9xFSu1wcmtvlCDV8/4Y9L2pvM0KK+6My8l80+zk0tWJ1sVkC0JSq3XdyXem3W5p6XcIz6LpsAnrFS3o544Lc92mvv5L2W0TO0yU/cyyvC15BBF2Zht/d7ppYfyaVmtwzUdddc1tzWTq+a+zWRM0DiEnJ0ZN4uZL/eNVnH/aS38F/Z72+x+pK9Nich6uu2H+637Ti+J6N8m+Y5Nsb+v7haYyKd/vZ33MW2uM/ovxah9/ZXW/15uzwl6R1qFK/D"
+ },
+ "SV_NIT > agrees with nationid except documented fixes": {
+  "samples": 5000,
+  "inputsHash": "4179312b",
+  "verdicts": "pi21mvFCaEQPotZJhsJ/AjUUdb9vXWRxFUFA23RSBHv9I1m8JPLG3rRkoWNhl8sMgwUcnEc0WOqWAe+Kbz/gBP8fLJgMAaUW0EQAFgOoylJiWENuOv20iLkmLgCVbDfyASOOgACOMvDE2hZGNmQPBEIEWEMH5tSmB1H0unsAXPeWp5kxFJNNne+aQdOvX+wZtQpKqCBQT0rJQeSssvJTpYUOfmNRMZtBVqVp7frNlUfsYKUXx85w5+RFvAUACT38oml25JBd3cAJ+Oc0mReLJ2qNer46EFAbQp6ghGB52ihhJBYqFg0g+GY72eqUArkIdFQ9vz47Dj90cfxR9sFCydMwoDWlOwdAqtNwKBuaQC6XRVeOQbAn0aWoVECHwI3w3XuNaNIuEnHwI22IpgAWGOb72qgm/Gro/yDbcHsseSE0+fGYSyZXEd/cfdilstcywOQKUXLOoDHDPwmBFODayCnxaRwHr1hon+Xoi71SuQR0jvWkmmGDoiZo9jECMtUiWjxcs4bNp+8y+ci7H/I35VVG2EAiZTS+C4rThALhGO1LQciltskkMlcUUAODycy/0GPuooXY36nmIsfVohh+M2bngTf0XY0Z/JbbChS8tw8+KXKo5BYuIFomBSVC0GTZCAkdaMcbYqW2ESQg34e/QsvroGK8LN0TPTLC4PRkLMzULbsMF6MULpmzcsBg8KQUeFmnFNrRmMjUcRS1CjkVYOgAG99nDFVqgWGQgarhBvZoU7mkJz5X2n1q8F8LsPcIBFfboCQNayq4tqG5JWwz7DRiTE4JrK3ymKPtptQzmpcPJmT30QU6VclQCRhok/NjQQ=="
+ },
+ "SV_PASAPORTE > agrees with nationid": {
+  "samples": 3000,
+  "inputsHash": "805c8d21",
+  "verdicts": "////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+ }
+}
