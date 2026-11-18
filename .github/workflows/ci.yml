@@ -115,22 +115,22 @@ jobs:
         env:
           BUMP: ${{ inputs.bump || 'auto' }}
 
-      - if: steps.version.outputs.publish == true
+      - if: steps.version.outputs.publish == 'true'
         run: pnpm install --frozen-lockfile
 
       # The version lives on npm and in git tags; package.json on main is not rewritten
       # (branch protection blocks bot pushes, and that is intended).
       - name: Set version
-        if: steps.version.outputs.publish == true
+        if: steps.version.outputs.publish == 'true'
         run: npm version "${{ steps.version.outputs.version }}" --no-git-tag-version --allow-same-version
 
       # Trusted publishing: no token needed. prepublishOnly re-runs typecheck, tests and build.
       - name: Publish
-        if: steps.version.outputs.publish == true
+        if: steps.version.outputs.publish == 'true'
         run: npm publish --provenance --access public
 
       - name: Tag and create GitHub release
-        if: steps.version.outputs.publish == true
+        if: steps.version.outputs.publish == 'true'
         run: gh release create "v${{ steps.version.outputs.version }}" --target "$GITHUB_SHA" --title "v${{ steps.version.outputs.version }}" --generate-notes
         env:
           GH_TOKEN: ${{ github.token }}
