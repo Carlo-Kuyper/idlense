@@ -12,13 +12,13 @@
     "date-of-birth",
     "typescript"
   ],
-  "homepage": "https://github.com/Carlo-Kuyper/idlense#readme",
+  "homepage": "https://github.com/pixelated-digital-studio/idlense#readme",
   "bugs": {
-    "url": "https://github.com/Carlo-Kuyper/idlense/issues"
+    "url": "https://github.com/pixelated-digital-studio/idlense/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carlo-Kuyper/idlense.git"
+    "url": "git+https://github.com/pixelated-digital-studio/idlense.git"
   },
   "license": "MIT",
   "author": "Carlo Kuyper",
