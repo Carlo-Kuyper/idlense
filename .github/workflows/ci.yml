@@ -1,0 +1,136 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      bump:
+        description: "Version bump (auto reads commit messages)"
+        type: choice
+        options: [auto, patch, minor, major]
+        default: auto
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  test:
+    name: Test (Node ${{ matrix.node }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # engines: node >=22 — test the oldest supported, the LTS, and current.
+        node: [22, 24, 26]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ matrix.node }}
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Typecheck
+        run: pnpm typecheck
+      - name: Test
+        run: pnpm test
+      - name: Build
+        run: pnpm build
+
+  package:
+    name: Package checks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Build
+        run: pnpm build
+
+      - name: Generated files are up to date
+        run: |
+          node scripts/gen-coverage.mjs
+          if ! git diff --exit-code -- src/countries/index.ts COVERAGE.md; then
+            echo "::error::Generated files are stale. Run 'pnpm coverage:docs' and commit the result."
+            exit 1
+          fi
+
+      - name: Pack tarball
+        run: |
+          npm pack --pack-destination "$RUNNER_TEMP"
+          echo "TARBALL=$(ls "$RUNNER_TEMP"/idlense-*.tgz)" >> "$GITHUB_ENV"
+
+      - name: Install tarball in a clean project and import it
+        run: |
+          mkdir "$RUNNER_TEMP/smoke" && cd "$RUNNER_TEMP/smoke"
+          npm init -y >/dev/null
+          npm pkg set type=module
+          npm install "$TARBALL"
+          cat > smoke.js <<'JS'
+          import { identify, isValidId, listSupportedCountries } from "idlense";
+          const r = identify("8001015009087", { country: "ZA" });
+          if (r.status !== "valid") throw new Error("expected valid ZA id, got " + JSON.stringify(r));
+          if (!isValidId("8001015009087", "ZA")) throw new Error("isValidId failed");
+          const n = listSupportedCountries().length;
+          if (n < 100) throw new Error("only " + n + " countries exported");
+          console.log("idlense smoke test OK:", n, "countries");
+          JS
+          node smoke.js
+
+  release:
+    name: Publish to npm
+    needs: [test, package]
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: ubuntu-latest
+    concurrency:
+      group: release
+      cancel-in-progress: false
+    permissions:
+      contents: write # create the git tag + GitHub release
+      id-token: write # npm trusted publishing (OIDC) + provenance
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # full history + tags, to read commits since the last release
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 26
+          cache: pnpm
+          registry-url: https://registry.npmjs.org
+
+      - name: Work out next version
+        id: version
+        run: node scripts/next-version.mjs
+        env:
+          BUMP: ${{ inputs.bump || 'auto' }}
+
+      - if: steps.version.outputs.publish == true
+        run: pnpm install --frozen-lockfile
+
+      # The version lives on npm and in git tags; package.json on main is not rewritten
+      # (branch protection blocks bot pushes, and that is intended).
+      - name: Set version
+        if: steps.version.outputs.publish == true
+        run: npm version "${{ steps.version.outputs.version }}" --no-git-tag-version --allow-same-version
+
+      # Trusted publishing: no token needed. prepublishOnly re-runs typecheck, tests and build.
+      - name: Publish
+        if: steps.version.outputs.publish == true
+        run: npm publish --provenance --access public
+
+      - name: Tag and create GitHub release
+        if: steps.version.outputs.publish == true
+        run: gh release create "v${{ steps.version.outputs.version }}" --target "$GITHUB_SHA" --title "v${{ steps.version.outputs.version }}" --generate-notes
+        env:
+          GH_TOKEN: ${{ github.token }}
