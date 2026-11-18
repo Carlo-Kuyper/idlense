@@ -1,4 +1,4 @@
-# id-extractor
+# idLense
 
 Zero-dependency validation and data extraction for national ID numbers worldwide.
 Give it a number, with or without a country. It tells you whether the number is valid, which
@@ -16,7 +16,7 @@ Each module's header lists its sources and what it fixes.
 ## Usage
 
 ```ts
-import { identify, validateDocument, isValidId, listSupportedCountries } from "id-extractor";
+import { identify, validateDocument, isValidId, listSupportedCountries } from "idLense";
 
 identify("8001015009087", { country: "ZA" });
 // {

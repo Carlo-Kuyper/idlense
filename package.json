@@ -1,10 +1,29 @@
 {
-  "name": "id-extractor",
+  "name": "idlense",
   "version": "0.1.0",
   "description": "Zero-dependency validation and data extraction for national ID numbers worldwide.",
+  "keywords": [
+    "national-id",
+    "id-number",
+    "validation",
+    "checksum",
+    "identity",
+    "kyc",
+    "date-of-birth",
+    "typescript"
+  ],
+  "homepage": "https://github.com/Carlo-Kuyper/idlense#readme",
+  "bugs": {
+    "url": "https://github.com/Carlo-Kuyper/idlense/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlo-Kuyper/idlense.git"
+  },
+  "license": "MIT",
+  "author": "Carlo Kuyper",
   "type": "module",
-  "license": "UNLICENSED",
-  "private": true,
+  "packageManager": "pnpm@12.11.2",
   "engines": {
     "node": ">=22"
   },
@@ -17,7 +36,8 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "THIRD_PARTY_NOTICES.md"
   ],
   "sideEffects": false,
   "scripts": {
@@ -26,7 +46,8 @@
     "typecheck": "pnpm gen && tsc --noEmit",
     "test": "pnpm gen && vitest run",
     "test:watch": "vitest",
-    "coverage:docs": "pnpm build && node scripts/gen-coverage.mjs"
+    "coverage:docs": "pnpm build && node scripts/gen-coverage.mjs",
+    "prepublishOnly": "pnpm typecheck && pnpm test && pnpm build"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
