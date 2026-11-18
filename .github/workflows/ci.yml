@@ -29,7 +29,7 @@ jobs:
         # engines: node >=22 — test the oldest supported, the LTS, and current.
         node: [22, 24, 26]
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v5
         with:
@@ -47,7 +47,7 @@ jobs:
     name: Package checks
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v5
         with:
@@ -99,7 +99,7 @@ jobs:
       contents: write # create the git tag + GitHub release
       id-token: write # npm trusted publishing (OIDC) + provenance
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0 # full history + tags, to read commits since the last release
       - uses: pnpm/action-setup@v4
